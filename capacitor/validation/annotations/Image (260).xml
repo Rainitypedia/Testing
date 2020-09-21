@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image (260).jpg</filename>
+	<path>C:\Users\Russel\Desktop\Dataset\validation\images\Image (260).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>44</ymin>
+			<xmax>484</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>66</ymin>
+			<xmax>638</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

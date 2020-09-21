@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Replace</folder>
+	<filename>Image (181).jpg</filename>
+	<path>C:\Users\Russel\Desktop\Replace\Image (181).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>318</ymin>
+			<xmax>339</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>297</ymin>
+			<xmax>636</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+</annotation>
